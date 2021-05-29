@@ -41,6 +41,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
+- [w3schools ](https://www.w3schools.com/) - This helped me code few of the components which were new to me.
+
 ## Author
 
 - Frontend Mentor - [Kunanj Pradhan](https://www.frontendmentor.io/profile/Kunanj)
