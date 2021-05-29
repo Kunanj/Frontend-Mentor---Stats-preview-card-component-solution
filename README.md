@@ -30,6 +30,18 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front End Mentor Site Link of Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-EAgATw9AP)
+- Live Site URL: [Live Site](https://stats-preview-card-component-solution-by-kunanj.netlify.app/)
 
+## My process
+
+### Built with
+
+- Semantic HTML markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- Frontend Mentor - [Kunanj Pradhan](https://www.frontendmentor.io/profile/Kunanj)
+- LinkedIn - [Kunanj Pradhan](https://www.linkedin.com/in/kunanj-pradhan-28b2001b2/)
